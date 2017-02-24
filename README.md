@@ -188,10 +188,5 @@ The documentations also explain how to host it to a VPS such as Heroku or Cloud9
 <img src="http://www.seipel-ibisevic.com/assets-external/stripe-charge/banner_inline.jpg">
 </a>
 
-# Changelog
 
-```
-v1.0  2017-02-24
-Initial release
-```
 
