@@ -5,6 +5,8 @@
 
 [Stripe Payments with Ionic2](https://www.noodl.io/market/product/P201702241736843/stripe-with-ionic2-quickly-and-easily-integrate-stripe-in-your-ionic2-app) is the easiest and quickest way to start monetizing your Ionic2 app. The template contains the full source code for a payment form that processes payments using Stripe. Stripe is the best software platform for running an internet business and handles billions of dollars every year.
 
+<img src="http://www.seipel-ibisevic.com/assets-external/ng2-stripe/banner_ionic.png">
+
 Specifically, the template illustrates how to:
 
 1. validate the credit card details; 
