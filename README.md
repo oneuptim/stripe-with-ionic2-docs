@@ -1,14 +1,18 @@
 
 # [Stripe Payments with Ionic2](https://www.noodl.io/market/product/P201702241736843/stripe-with-ionic2-quickly-and-easily-integrate-stripe-in-your-ionic2-app) | Documentation
 
-This is one of the most easy ways to start monetizing your Ionic2 app. The template contains the full source code for a payment form that processes payments using [Stripe](https://www.stripe.com). Stripe is the best software platform for running an internet business and handles billions of dollars every year.
+**This documentation outlines how to add Stripe to your Ionic2 app. If you haven't already, please [Download](https://www.noodl.io/market/product/P201702241736843/stripe-with-ionic2-quickly-and-easily-integrate-stripe-in-your-ionic2-app) the complete source code first and then follow the steps below.**
 
-Specifically, the template illustrates how to **1. validate the credit card details**, handle the response, and proceed with **2. charging the customer** using the validated token. The payment is immediately transferred to your Stripe account and is visible in your Dashboard, which allows you to also for instance make a refund or change the settings. The package also utilizes the power of [Noodlio Pay](https://www.noodliopay.com). With Noodlio Pay you don't have to setup and host your own payment server, you can simply make calls to the [API](https://market.mashape.com/noodlio/noodlio-pay-smooth-payments-with-stripe). Nevertheless, the documentation also explains how to setup your own payment server in case you would wish that, and how this package can help you achieve that with one line of code (simply point the payment `URL` to your server).
+Stripe Payments with Ionic2 is the easiest and quickest way to start monetizing your Ionic2 app. The template contains the full source code for a payment form that processes payments using [Stripe](https://www.stripe.com). Stripe is the best software platform for running an internet business and handles billions of dollars every year.
+
+Specifically, the template illustrates how to **1. validate the credit card details**, handle the response, and proceed with **2. charging the customer** using the validated token. The payment is immediately transferred to your Stripe account and is visible in your Dashboard, which allows you to also for instance make a refund or change the settings. 
+
+The starter also illustrates how to use a Stripe Payments [API](https://market.mashape.com/noodlio/noodlio-pay-smooth-payments-with-stripe) (which essentially saves you a lot of time and money) to process the payment, or alternatively how to setup your own payment server. The latter include the full source code of the payment server.
 
 In summary:
 
-- Add payments to your app or website
-- Validate the credit card details
+- Integrate a payment form in your Ionic2 app or website
+- Validate the credit card details of the user
 - Process payments
 - [Support for almost any currency](https://support.stripe.com/questions/which-currencies-does-stripe-support)
 
